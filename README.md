@@ -239,7 +239,7 @@ git clone https://github.com/anuj-vishwakarma/Student-Management-System-Java.git
 ## Step 1: Create Database
 
 ```sql
-CREATE DATABASE student_management_system;
+CREATE DATABASE studentdata;
 ```
 
 ---
@@ -247,7 +247,7 @@ CREATE DATABASE student_management_system;
 ## Step 2: Use Database
 
 ```sql
-USE student_management_system;
+USE studentdata;
 ```
 
 ---
@@ -265,7 +265,7 @@ Update your database credentials inside the database connection file.
 Example:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/student_management_system";
+String url = "jdbc:mysql://localhost:3306/studentdata";
 String username = "root";
 String password = "your_password";
 ```
