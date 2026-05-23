@@ -80,19 +80,19 @@ Student-Management-System-Java/
 
 ## Student Management
 
-- Add students
+- ## Add students
 
   <img width="1093" height="601" alt="image" src="https://github.com/user-attachments/assets/516e5222-5f73-43e9-846c-c26048085012" />
 
-- Course
+- ## Course
 
   <img width="1087" height="590" alt="image" src="https://github.com/user-attachments/assets/e17c00d7-f581-4a0f-9311-00b907e4aa41" />
 
-- Grades of Students
+- ## Grades of Students
 
   <img width="1096" height="596" alt="image" src="https://github.com/user-attachments/assets/f4c72d20-e8b6-40e6-9d00-9f5b31b1e8f1" />
 
-- Attendance System
+- ## Attendance System
 
   <img width="1091" height="597" alt="image" src="https://github.com/user-attachments/assets/9462aa8f-d862-4f01-8627-912755373148" />
 
