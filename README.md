@@ -63,18 +63,38 @@ Student-Management-System-Java/
 - Credential validation
 - JavaFX-based responsive UI
 
+  <img width="977" height="586" alt="image" src="https://github.com/user-attachments/assets/fadc7a2b-cf42-4ac7-bca1-570cb34f99bd" />
+## Signup Page
+- User creation system
+- Credential storage in hash form
+  <img width="987" height="588" alt="image" src="https://github.com/user-attachments/assets/3930002d-b334-4a17-bb70-0e1addf421f0" />
+
+
 ## Dashboard
 
 - Student management panel
 - Navigation system
 - TableView integration
 
+  <img width="1090" height="597" alt="image" src="https://github.com/user-attachments/assets/564b4d64-db7b-46ce-880b-8feb8919d555" />
+
 ## Student Management
 
 - Add students
-- Edit student information
-- Delete student records
-- Search functionality
+
+  <img width="1093" height="601" alt="image" src="https://github.com/user-attachments/assets/516e5222-5f73-43e9-846c-c26048085012" />
+
+- Course
+
+  <img width="1087" height="590" alt="image" src="https://github.com/user-attachments/assets/e17c00d7-f581-4a0f-9311-00b907e4aa41" />
+
+- Grades of Students
+
+  <img width="1096" height="596" alt="image" src="https://github.com/user-attachments/assets/f4c72d20-e8b6-40e6-9d00-9f5b31b1e8f1" />
+
+- Attendance System
+
+  <img width="1091" height="597" alt="image" src="https://github.com/user-attachments/assets/9462aa8f-d862-4f01-8627-912755373148" />
 
 ---
 
